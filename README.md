@@ -1,16 +1,47 @@
-# contactinfo
+# 📱 Flutter Contact List App
 
-A new Flutter project for contact app
+This is a simple Contact List application built with Flutter. It allows users to:
 
-## Getting Started
+- Add a contact (name and number)
+- View all added contacts in a list
+- Delete a contact with a confirmation dialog (long press to delete)
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+- 📇 Add new contacts with name and phone number
+- 📜 Display all contacts in a scrollable list
+- 🗑 Long-press on a contact to confirm and delete
+- 🧼 Clean UI and responsive layout
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠 Technologies Used
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Flutter (SDK)
+- Dart (Language)
+- Material Design components
+
+## 📸 Screenshots
+
+| Add Contact                           | Contact List | Delete Confirmation |
+|---------------------------------------|---------------|---------------------|
+| ![Add Screen](screens/add_screen.png) | ![List Screen](screens/list_screen.png) | ![Delete Dialog](screens/delete_dialog.png) |
+
+
+## 📂 Project Structure
+
+```
+flutter-contact-list/
+├── lib/
+    └── main.dart #Main app logic and UI
+├── screens/
+│   ├── add_screen.png
+│   ├── list_screen.png
+│   └── delete_dialog.png
+├── README.md
+```
+
+## 🔗 Connected with @jobaieer
+
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://jobaieer.netlify.app)
+[![facebook](https://img.shields.io/badge/facebook-316FF6?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/jobaieerofficial)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jobaieer)
+
